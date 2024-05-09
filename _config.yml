@@ -21,7 +21,7 @@ repository               : "JuanKo96/juanko96.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "prof_pic.png"
+  avatar           : "prof_pic.jpg"
   name             : "Joohwan Ko"
   pronouns         : # example: "she/her"  
   bio              : "juanko[at]kaist.ac.kr"

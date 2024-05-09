@@ -15,6 +15,20 @@ I have a broad but focused interest in the theoretical aspects of Black-Box Vari
 
 ## Selected Publications
 
-[Provably Scalable Black-Box Variational Inference with Structured Variational Families](https://arxiv.org/pdf/2401.10989)
-**Joohwan Ko**\*, Kyurae Kim\*, Woo Chang Kim, Jacob R. Gardner.
+[Provably Scalable Black-Box Variational Inference with Structured Variational Families](https://arxiv.org/pdf/2401.10989)\
+**Joohwan Ko**\*, Kyurae Kim\*, Woo Chang Kim, Jacob R. Gardner.\
 41th International Conference on Machine Learning (**ICML 2024**)
+
+[Learning to scale logits for temperature-conditional GFlowNets](https://arxiv.org/pdf/2310.02823)\
+Minsu Kim\*, **Joohwan Ko**\*, Taeyoung Yun\*, Dinghuai Zhang, Ling Pan, Woochang Kim, 
+Jinkyoo Park, Emmanuel Bengio, Yoshua Bengio\
+41th International Conference on Machine Learning (**ICML 2024**)
+
+Demystifying Doubly Stochastic Gradient Descent\
+Kyurae Kim, **Joohwan Ko** Yian Ma, Jacob R. Gardner\
+41th International Conference on Machine Learning (**ICML 2024**)
+
+[Multilevel approach to efficient gradient calculation in stochastic systems
+](https://openreview.net/pdf?id=SGmR37uf2s)\
+Joohwan Ko, Michael Poli, Stefano Massaroli, Woochang Kim\
+11th International Conference on Learning Representations Workshop on Physics for Machine Learning (**ICLR 2024 Workshop**)
