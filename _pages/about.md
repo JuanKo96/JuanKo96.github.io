@@ -23,7 +23,7 @@ I'm excited to announce that I'll be joining the CS PhD program at UMass Amherst
 41th International Conference on Machine Learning (**ICML 2024**)
 
 [Learning to scale logits for temperature-conditional GFlowNets](https://arxiv.org/pdf/2310.02823)\
-Minsu Kim\*, **Joohwan Ko**\*, Taeyoung Yun\*, Dinghuai Zhang, Ling Pan, Woochang Kim, 
+Minsu Kim\*, **Joohwan Ko**\*, Taeyoung Yun\*, Dinghuai Zhang, Ling Pan, Woo Chang Kim, 
 Jinkyoo Park, Emmanuel Bengio, Yoshua Bengio\
 41th International Conference on Machine Learning (**ICML 2024**)
 
@@ -33,8 +33,8 @@ Kyurae Kim, **Joohwan Ko**, Yian Ma, Jacob R. Gardner\
 
 [Multilevel approach to efficient gradient calculation in stochastic systems
 ](https://openreview.net/pdf?id=SGmR37uf2s)\
-Joohwan Ko, Michael Poli, Stefano Massaroli, Woochang Kim\
-11th International Conference on Learning Representations Workshop on Physics for Machine Learning (**ICLR 2024 Workshop**)
+Joohwan Ko, Michael Poli, Stefano Massaroli, Woo Chang Kim\
+11th International Conference on Learning Representations Workshop on Physics for Machine Learning (**ICLR 2023 Workshop**)
 
 ( * denotes equal contribution)
 
