@@ -27,13 +27,13 @@ Minsu Kim\*, **Joohwan Ko**\*, Taeyoung Yun\*, Dinghuai Zhang, Ling Pan, Woo Cha
 Jinkyoo Park, Emmanuel Bengio, Yoshua Bengio\
 41th International Conference on Machine Learning (**ICML 2024**)
 
-Demystifying Doubly Stochastic Gradient Descent\
+[Demystifying SGD with Doubly Stochastic Gradients](https://arxiv.org/pdf/2406.00920)\
 Kyurae Kim, **Joohwan Ko**, Yian Ma, Jacob R. Gardner\
 41th International Conference on Machine Learning (**ICML 2024**)
 
 [Multilevel approach to efficient gradient calculation in stochastic systems
 ](https://openreview.net/pdf?id=SGmR37uf2s)\
-Joohwan Ko, Michael Poli, Stefano Massaroli, Woo Chang Kim\
+**Joohwan Ko**, Michael Poli, Stefano Massaroli, Woo Chang Kim\
 11th International Conference on Learning Representations Workshop on Physics for Machine Learning (**ICLR 2023 Workshop**)
 
 ( * denotes equal contribution)
