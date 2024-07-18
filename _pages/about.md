@@ -7,15 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student in the Industrial and Systems Engineering department at KAIST advised by [Prof. Woo Chang Kim](https://felab.kaist.ac.kr/team.html). My research interest lies in 
-- Probabilitic Machine Learning 
-- Bayesian Inference and Stochastic Optimization
+I am an incoming Ph.D. student in Computer Scient at [University of Massachusetts Amherst](https://www.cics.umass.edu/), advised by [Prof. Justin Domke](https://www.cics.umass.edu/faculty/directory/domke-justin). 
 
-I have a broad but focused interest in the theoretical aspects of Black-Box Variational Inference, GFlowNets, and Neural SDEs. I am involved in research with various groups, including the [DiffEqML](https://github.com/DiffEqML) research group, where my interest in probabilistic machine learning has deepened. Additionally, I had the valuable opportunity to visit Carnegie Mellon University and work with [Prof. Andrew A. Li](https://www.andrew.cmu.edu/user/aali1/index.html) last fall. Prior to KAIST, I did my undergraduate at Yonsei University.
+My research interest lies in 
+- Vayesian Inference and Stochastic Optimization
+- Generative Models, with a focus on GFlowNets
 
-<span style="color:red"> [News] </span>
-I'm excited to announce that I'll be joining the CS PhD program at UMass Amherst this fall, working with Professor [Justin Domke](https://www.cics.umass.edu/faculty/directory/domke-justin).
+I have a broad yet focused interest in the theoretical aspects of Variational Inference, particularly in high-capacity inference methods and constructing generative models such as GFlowNets. I am actively engaged in research with various groups, including the [DiffEqML](https://github.com/DiffEqML) research group, where I have deepened my interest in probabilistic machine learning. Before joining UMass, I completed my Master's at KAIST under the supervision of [Prof. Woo Chang Kim](https://felab.kaist.ac.kr/team.html) and earned my undergraduate degree from Yonsei University.
 
+
+<!-- <span style="color:red"> [News] </span>
+news -->
 ## Selected Publications
 
 [Provably Scalable Black-Box Variational Inference with Structured Variational Families](https://arxiv.org/pdf/2401.10989)\
