@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Ph.D. student in Computer Science at [University of Massachusetts Amherst](https://www.cics.umass.edu/), advised by [Prof. Justin Domke](https://www.cics.umass.edu/faculty/directory/domke-justin). 
+I am a Ph.D. student in Computer Science at [University of Massachusetts Amherst](https://www.cics.umass.edu/), advised by [Prof. Justin Domke](https://www.cics.umass.edu/faculty/directory/domke-justin). 
 
 My research interest lies in 
 - Variational Inference and Stochastic Optimization
