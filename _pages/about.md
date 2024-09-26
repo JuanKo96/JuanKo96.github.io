@@ -19,6 +19,9 @@ I have a broad yet focused interest in the theoretical aspects of Variational In
 <!-- <span style="color:red"> [News] </span>
 news -->
 ## Selected Publications
+Layer-Adaptive $\mathcal{H}_{\infty}$ State Pruning for Deep Diagonal State Space Model Compression\
+Minseon Gwak, Seongrok Moon, **Joohwan Ko**, PooGyeon Park.\
+38th Annual Conference on Neural Information Processing Systems (**NeurIPS 2024**)
 
 [Provably Scalable Black-Box Variational Inference with Structured Variational Families](https://arxiv.org/pdf/2401.10989)\
 **Joohwan Ko**\*, Kyurae Kim\*, Woo Chang Kim, Jacob R. Gardner.\
