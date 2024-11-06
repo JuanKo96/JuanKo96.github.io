@@ -19,7 +19,7 @@ I have a broad yet focused interest in the theoretical aspects of Variational In
 <!-- <span style="color:red"> [News] </span>
 news -->
 ## Selected Publications
-Layer-Adaptive \\(\mathcal{H}_{\infty}\\) State Pruning for Deep Diagonal State Space Model Compression\
+[Layer-Adaptive State Pruning for Deep State Space Models](https://arxiv.org/pdf/2411.02824)\
 Minseon Gwak, Seongrok Moon, **Joohwan Ko**, PooGyeon Park.\
 38th Annual Conference on Neural Information Processing Systems (**NeurIPS 2024**)
 
