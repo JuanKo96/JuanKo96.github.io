@@ -36,6 +36,10 @@ Jinkyoo Park, Emmanuel Bengio, Yoshua Bengio\
 Kyurae Kim, **Joohwan Ko**, Yian Ma, Jacob R. Gardner\
 41th International Conference on Machine Learning (**ICML 2024**)
 
+[Enhancing Topological Dependencies in Spatio-Temporal Graphs with Cycle Message Passing Blocks](https://arxiv.org/pdf/2401.15894)\
+Minho Lee*, Yun Young Choi*, Sun Woo Park, Seunghwan Lee, **Joohwan Ko**, Jaeyoung Hong\
+The Third Learning on Graphs Conference (**LOG 2024**)
+
 [Multilevel approach to efficient gradient calculation in stochastic systems
 ](https://openreview.net/pdf?id=SGmR37uf2s)\
 **Joohwan Ko**, Michael Poli, Stefano Massaroli, Woo Chang Kim\
