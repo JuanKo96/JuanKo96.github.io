@@ -7,36 +7,34 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at [University of Massachusetts Amherst](https://www.cics.umass.edu/), advised by [Prof. Justin Domke](https://www.cics.umass.edu/faculty/directory/domke-justin). 
+I am a Ph.D. student in Computer Science at the [University of Massachusetts Amherst](https://www.cics.umass.edu/), advised by [Prof. Justin Domke](https://www.cics.umass.edu/faculty/directory/domke-justin). My research focuses on advancing probabilistic machine learning through **Bayesian inference** and **deep generative models**.
 
-My research interest lies in 
-- Variational Inference and Stochastic Optimization
-- Generative Models, with a focus on GFlowNets
+I specialize in enhancing approximate inference in complex systems by developing scalable and high-capacity variational inference methods using flow-based models. This expertise aligns with my work on constructing advanced generative models like Generative Flow Networks (GFlowNets) for scientific discovery. Additionally, I focus on leveraging diffusion models for approximate inference and improving their training methodologies to advance probabilistic machine learning.
 
-I have a broad yet focused interest in the theoretical aspects of Variational Inference, particularly in high-capacity inference methods and constructing generative models such as GFlowNets. I am actively engaged in research with various groups, including the [DiffEqML](https://github.com/DiffEqML) research group, where I have deepened my interest in probabilistic machine learning. Before joining UMass, I completed my Master's in Industrial & Systems Engineering at KAIST under the supervision of [Prof. Woo Chang Kim](https://felab.kaist.ac.kr/team.html) and did my undergraduate at Yonsei University.
+I am actively engaged in research with various groups, including the [DiffEqML](https://github.com/DiffEqML) research group, where I have deepened my interest in probabilistic machine learning. Prior to joining UMass, I completed my Master's in Industrial & Systems Engineering at KAIST under the supervision of [Prof. Woo Chang Kim](https://felab.kaist.ac.kr/team.html) and earned my undergraduate degree at Yonsei University.
 
 
 <!-- <span style="color:red"> [News] </span>
 news -->
 ## Selected Publications
-[Layer-Adaptive State Pruning for Deep State Space Models](https://arxiv.org/pdf/2411.02824)\
-Minseon Gwak, Seongrok Moon, **Joohwan Ko**, PooGyeon Park.\
-38th Annual Conference on Neural Information Processing Systems (**NeurIPS 2024**)
-
-[Provably Scalable Black-Box Variational Inference with Structured Variational Families](https://arxiv.org/pdf/2401.10989)\
-**Joohwan Ko**\*, Kyurae Kim\*, Woo Chang Kim, Jacob R. Gardner.\
-41th International Conference on Machine Learning (**ICML 2024**)
-
 [Learning to scale logits for temperature-conditional GFlowNets](https://arxiv.org/pdf/2310.02823)\
 Minsu Kim\*, **Joohwan Ko**\*, Taeyoung Yun\*, Dinghuai Zhang, Ling Pan, Woo Chang Kim, 
 Jinkyoo Park, Emmanuel Bengio, Yoshua Bengio\
+41th International Conference on Machine Learning (**ICML 2024**)
+
+[Provably Scalable Black-Box Variational Inference with Structured Variational Families](https://arxiv.org/pdf/2401.10989)\
+**Joohwan Ko**\*, Kyurae Kim\*, Woo Chang Kim, Jacob R. Gardner.\
 41th International Conference on Machine Learning (**ICML 2024**)
 
 [Demystifying SGD with Doubly Stochastic Gradients](https://arxiv.org/pdf/2406.00920)\
 Kyurae Kim, **Joohwan Ko**, Yian Ma, Jacob R. Gardner\
 41th International Conference on Machine Learning (**ICML 2024**)
 
-[Enhancing Topological Dependencies in Spatio-Temporal Graphs with Cycle Message Passing Blocks](https://arxiv.org/pdf/2401.15894)\
+[Layer-Adaptive State Pruning for Deep State Space Models](https://arxiv.org/pdf/2411.02824)\
+Minseon Gwak, Seongrok Moon, **Joohwan Ko**, PooGyeon Park.\
+38th Annual Conference on Neural Information Processing Systems (**NeurIPS 2024**)
+
+[Enhancing Topological Dependencies in Spatio-Temporal Graphs with Cycle Message Passing Blocks](https://openreview.net/pdf?id=LzTlTZZIN5)\
 Minho Lee*, Yun Young Choi*, Sun Woo Park, Seunghwan Lee, **Joohwan Ko**, Jaeyoung Hong\
 The Third Learning on Graphs Conference (**LOG 2024**)
 
