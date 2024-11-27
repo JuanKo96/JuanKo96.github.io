@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at the [University of Massachusetts Amherst](https://www.cics.umass.edu/), advised by [Prof. Justin Domke](https://www.cics.umass.edu/faculty/directory/domke-justin). My research focuses on advancing probabilistic machine learning through **Bayesian inference** and **deep generative models**.
+I am a first year Ph.D. student in Computer Science at the [University of Massachusetts Amherst](https://www.cics.umass.edu/), advised by [Prof. Justin Domke](https://www.cics.umass.edu/faculty/directory/domke-justin). My research focuses on advancing probabilistic machine learning through **Bayesian inference** and **deep generative models**.
 
-I specialize in enhancing approximate inference in complex systems by developing scalable and high-capacity variational inference methods using flow-based models. This expertise aligns with my work on constructing advanced generative models like Generative Flow Networks (GFlowNets) for scientific discovery. Additionally, I focus on leveraging diffusion models for approximate inference and improving their training methodologies to advance probabilistic machine learning.
+I'm interested in improving approximate inference by developing scalable and high-capacity variational inference methods using flow-based models. I'm also exploring deep generative models like Generative Flow Networks (GFlowNets) for scientific discovery. Additionally, I'm working on leveraging diffusion models for approximate inference and enhancing their training methodologies to push the boundaries of probabilistic machine learning.
 
-I am actively engaged in research with various groups, including the [DiffEqML](https://github.com/DiffEqML) research group, where I have deepened my interest in probabilistic machine learning. Prior to joining UMass, I completed my Master's in Industrial & Systems Engineering at KAIST under the supervision of [Prof. Woo Chang Kim](https://felab.kaist.ac.kr/team.html) and earned my undergraduate degree at Yonsei University.
+I am actively engaged in research with various groups, including the [DiffEqML](https://github.com/DiffEqML), where I have deepened my interest in probabilistic machine learning. Prior to joining UMass, I completed my Master's in Industrial & Systems Engineering at KAIST under the supervision of [Prof. Woo Chang Kim](https://felab.kaist.ac.kr/team.html) and earned my undergraduate degree at Yonsei University.
 
 
 <!-- <span style="color:red"> [News] </span>
