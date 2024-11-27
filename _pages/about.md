@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Ph.D. student in Computer Science at the [University of Massachusetts Amherst](https://www.cics.umass.edu/), advised by [Prof. Justin Domke](https://www.cics.umass.edu/faculty/directory/domke-justin). My research focuses on advancing probabilistic machine learning through **Bayesian inference** and **deep generative models**.
+I am a first year Ph.D. student in Computer Science at the [University of Massachusetts Amherst](https://www.cics.umass.edu/), advised by [Prof. Justin Domke](https://www.cics.umass.edu/about/directory/justin-domke). My research focuses on advancing probabilistic machine learning through **Bayesian inference** and **deep generative models**.
 
 I'm interested in improving approximate inference by developing scalable and high-capacity variational inference methods using flow-based models. I'm also exploring deep generative models like Generative Flow Networks (GFlowNets) for scientific discovery. Additionally, I'm working on leveraging diffusion models for approximate inference and enhancing their training methodologies to push the boundaries of probabilistic machine learning.
 
